@@ -32,8 +32,8 @@ I work on various projects, including:
 - [Custom HTTP Server](https://github.com/git-uday-kiran/http-server): A simple server handling HTTP requests and REST API routing.
 
 ## Achievements
-- Solved 850+ problems on LeetCode
-- Solved 250+ problems on HackerRank
+- Solved 850+ problems on [LeetCode](https://leetcode.com/u/udaykiran0486)
+- Solved 250+ problems on [HackerRank](https://www.hackerrank.com/profile/udaykiran0486)
 
 ## Connect with Me
 - [Email](mailto:udaykiran0486@gmail.com)
