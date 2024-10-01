@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 
 # Hi there! I'm Uday Kiran 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <iframe src="https://giphy.com/embed/Zebztgv7jmkoLe1DoY" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/rocrijnijssel-computer-coding-html-Zebztgv7jmkoLe1DoY">via GIPHY</a></p>
+</div>
+
 ## About Me
 I'm a Java Back-End Developer with 1+ years of experience in implementing APIs, writing clean code, and a strong focus on Spring Boot. I specialize in designing databases and developing RESTful APIs, ensuring high-quality code delivery to meet project requirements. I am dedicated to continuous learning and staying updated with emerging technologies.
 
