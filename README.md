@@ -28,8 +28,8 @@ I'm a Java Back-End Developer with 1+ years of experience in implementing APIs, 
 ## Projects
 I work on various projects, including:
 - [LinkedIn Easy Apply Bot](https://github.com/git-uday-kiran/linkedin-bot): Automates job applications on LinkedIn.
-- [Hostel Management System](https://github.com/git-uday-kiran/hostel-management): Backend system for managing hostel operations.
 - [Custom HTTP Server](https://github.com/git-uday-kiran/http-server): A simple server handling HTTP requests and REST API routing.
+- [Hostel Management System](https://github.com/git-uday-kiran/hostel-management): Backend system for managing hostel operations.
 
 ## Achievements
 - Solved 850+ problems on [LeetCode](https://leetcode.com/u/udaykiran0486)
